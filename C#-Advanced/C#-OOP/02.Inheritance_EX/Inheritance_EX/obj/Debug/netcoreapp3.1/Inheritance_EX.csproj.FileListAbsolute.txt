@@ -1,0 +1,13 @@
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\Inheritance_EX\bin\Debug\netcoreapp3.1\Inheritance_EX.exe
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\Inheritance_EX\bin\Debug\netcoreapp3.1\Inheritance_EX.deps.json
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\Inheritance_EX\bin\Debug\netcoreapp3.1\Inheritance_EX.runtimeconfig.json
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\Inheritance_EX\bin\Debug\netcoreapp3.1\Inheritance_EX.runtimeconfig.dev.json
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\Inheritance_EX\bin\Debug\netcoreapp3.1\Inheritance_EX.dll
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\Inheritance_EX\bin\Debug\netcoreapp3.1\Inheritance_EX.pdb
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\Inheritance_EX\obj\Debug\netcoreapp3.1\Inheritance_EX.csprojAssemblyReference.cache
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\Inheritance_EX\obj\Debug\netcoreapp3.1\Inheritance_EX.AssemblyInfoInputs.cache
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\Inheritance_EX\obj\Debug\netcoreapp3.1\Inheritance_EX.AssemblyInfo.cs
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\Inheritance_EX\obj\Debug\netcoreapp3.1\Inheritance_EX.csproj.CoreCompileInputs.cache
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\Inheritance_EX\obj\Debug\netcoreapp3.1\Inheritance_EX.dll
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\Inheritance_EX\obj\Debug\netcoreapp3.1\Inheritance_EX.pdb
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\Inheritance_EX\obj\Debug\netcoreapp3.1\Inheritance_EX.genruntimeconfig.cache

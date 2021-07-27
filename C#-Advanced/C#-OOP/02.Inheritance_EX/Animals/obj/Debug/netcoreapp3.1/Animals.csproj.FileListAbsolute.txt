@@ -1,0 +1,13 @@
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\Animals\obj\Debug\netcoreapp3.1\Animals.csprojAssemblyReference.cache
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache

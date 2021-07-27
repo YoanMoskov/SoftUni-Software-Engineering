@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesAbstraction", "InterfacesAbstraction\InterfacesAbstraction.csproj", "{1B71FD2F-4A55-4611-99F8-EE79A16E7599}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cars", "Cars\Cars.csproj", "{B9E59450-22B4-4CE5-9F50-C843B2CF257C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B71FD2F-4A55-4611-99F8-EE79A16E7599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B71FD2F-4A55-4611-99F8-EE79A16E7599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B71FD2F-4A55-4611-99F8-EE79A16E7599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B71FD2F-4A55-4611-99F8-EE79A16E7599}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9E59450-22B4-4CE5-9F50-C843B2CF257C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9E59450-22B4-4CE5-9F50-C843B2CF257C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9E59450-22B4-4CE5-9F50-C843B2CF257C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9E59450-22B4-4CE5-9F50-C843B2CF257C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEAFC2D7-38FA-4173-B8F1-A74FC967A627}
+	EndGlobalSection
+EndGlobal

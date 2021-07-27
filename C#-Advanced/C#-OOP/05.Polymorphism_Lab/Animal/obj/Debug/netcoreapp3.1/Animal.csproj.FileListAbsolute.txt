@@ -1,0 +1,12 @@
+C:\Users\Yoan Moskov\source\repos\Polymorphism\Animal\bin\Debug\netcoreapp3.1\Animal.exe
+C:\Users\Yoan Moskov\source\repos\Polymorphism\Animal\bin\Debug\netcoreapp3.1\Animal.deps.json
+C:\Users\Yoan Moskov\source\repos\Polymorphism\Animal\bin\Debug\netcoreapp3.1\Animal.runtimeconfig.json
+C:\Users\Yoan Moskov\source\repos\Polymorphism\Animal\bin\Debug\netcoreapp3.1\Animal.runtimeconfig.dev.json
+C:\Users\Yoan Moskov\source\repos\Polymorphism\Animal\bin\Debug\netcoreapp3.1\Animal.dll
+C:\Users\Yoan Moskov\source\repos\Polymorphism\Animal\bin\Debug\netcoreapp3.1\Animal.pdb
+C:\Users\Yoan Moskov\source\repos\Polymorphism\Animal\obj\Debug\netcoreapp3.1\Animal.AssemblyInfoInputs.cache
+C:\Users\Yoan Moskov\source\repos\Polymorphism\Animal\obj\Debug\netcoreapp3.1\Animal.AssemblyInfo.cs
+C:\Users\Yoan Moskov\source\repos\Polymorphism\Animal\obj\Debug\netcoreapp3.1\Animal.csproj.CoreCompileInputs.cache
+C:\Users\Yoan Moskov\source\repos\Polymorphism\Animal\obj\Debug\netcoreapp3.1\Animal.dll
+C:\Users\Yoan Moskov\source\repos\Polymorphism\Animal\obj\Debug\netcoreapp3.1\Animal.pdb
+C:\Users\Yoan Moskov\source\repos\Polymorphism\Animal\obj\Debug\netcoreapp3.1\Animal.genruntimeconfig.cache

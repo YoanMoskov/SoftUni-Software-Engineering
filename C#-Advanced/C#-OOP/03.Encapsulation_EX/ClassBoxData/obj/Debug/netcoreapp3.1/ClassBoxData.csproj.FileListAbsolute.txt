@@ -1,0 +1,13 @@
+C:\Users\Yoan Moskov\source\repos\Encapsulation_EX\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.exe
+C:\Users\Yoan Moskov\source\repos\Encapsulation_EX\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.deps.json
+C:\Users\Yoan Moskov\source\repos\Encapsulation_EX\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.runtimeconfig.json
+C:\Users\Yoan Moskov\source\repos\Encapsulation_EX\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.runtimeconfig.dev.json
+C:\Users\Yoan Moskov\source\repos\Encapsulation_EX\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.dll
+C:\Users\Yoan Moskov\source\repos\Encapsulation_EX\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.pdb
+C:\Users\Yoan Moskov\source\repos\Encapsulation_EX\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.csprojAssemblyReference.cache
+C:\Users\Yoan Moskov\source\repos\Encapsulation_EX\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.AssemblyInfoInputs.cache
+C:\Users\Yoan Moskov\source\repos\Encapsulation_EX\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.AssemblyInfo.cs
+C:\Users\Yoan Moskov\source\repos\Encapsulation_EX\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.csproj.CoreCompileInputs.cache
+C:\Users\Yoan Moskov\source\repos\Encapsulation_EX\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.dll
+C:\Users\Yoan Moskov\source\repos\Encapsulation_EX\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.pdb
+C:\Users\Yoan Moskov\source\repos\Encapsulation_EX\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.genruntimeconfig.cache

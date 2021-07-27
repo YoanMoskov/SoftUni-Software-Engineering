@@ -1,0 +1,13 @@
+C:\Users\Yoan Moskov\source\repos\Polymorphism\Shapes\bin\Debug\netcoreapp3.1\Shapes.exe
+C:\Users\Yoan Moskov\source\repos\Polymorphism\Shapes\bin\Debug\netcoreapp3.1\Shapes.deps.json
+C:\Users\Yoan Moskov\source\repos\Polymorphism\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.json
+C:\Users\Yoan Moskov\source\repos\Polymorphism\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.dev.json
+C:\Users\Yoan Moskov\source\repos\Polymorphism\Shapes\bin\Debug\netcoreapp3.1\Shapes.dll
+C:\Users\Yoan Moskov\source\repos\Polymorphism\Shapes\bin\Debug\netcoreapp3.1\Shapes.pdb
+C:\Users\Yoan Moskov\source\repos\Polymorphism\Shapes\obj\Debug\netcoreapp3.1\Shapes.csprojAssemblyReference.cache
+C:\Users\Yoan Moskov\source\repos\Polymorphism\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfoInputs.cache
+C:\Users\Yoan Moskov\source\repos\Polymorphism\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfo.cs
+C:\Users\Yoan Moskov\source\repos\Polymorphism\Shapes\obj\Debug\netcoreapp3.1\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Yoan Moskov\source\repos\Polymorphism\Shapes\obj\Debug\netcoreapp3.1\Shapes.dll
+C:\Users\Yoan Moskov\source\repos\Polymorphism\Shapes\obj\Debug\netcoreapp3.1\Shapes.pdb
+C:\Users\Yoan Moskov\source\repos\Polymorphism\Shapes\obj\Debug\netcoreapp3.1\Shapes.genruntimeconfig.cache

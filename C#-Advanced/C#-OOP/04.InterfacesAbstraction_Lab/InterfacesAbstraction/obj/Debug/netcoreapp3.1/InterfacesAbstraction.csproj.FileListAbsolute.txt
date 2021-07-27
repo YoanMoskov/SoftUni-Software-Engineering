@@ -1,0 +1,13 @@
+C:\Users\Yoan Moskov\source\repos\InterfacesAbstraction\InterfacesAbstraction\bin\Debug\netcoreapp3.1\InterfacesAbstraction.exe
+C:\Users\Yoan Moskov\source\repos\InterfacesAbstraction\InterfacesAbstraction\bin\Debug\netcoreapp3.1\InterfacesAbstraction.deps.json
+C:\Users\Yoan Moskov\source\repos\InterfacesAbstraction\InterfacesAbstraction\bin\Debug\netcoreapp3.1\InterfacesAbstraction.runtimeconfig.json
+C:\Users\Yoan Moskov\source\repos\InterfacesAbstraction\InterfacesAbstraction\bin\Debug\netcoreapp3.1\InterfacesAbstraction.runtimeconfig.dev.json
+C:\Users\Yoan Moskov\source\repos\InterfacesAbstraction\InterfacesAbstraction\bin\Debug\netcoreapp3.1\InterfacesAbstraction.dll
+C:\Users\Yoan Moskov\source\repos\InterfacesAbstraction\InterfacesAbstraction\bin\Debug\netcoreapp3.1\InterfacesAbstraction.pdb
+C:\Users\Yoan Moskov\source\repos\InterfacesAbstraction\InterfacesAbstraction\obj\Debug\netcoreapp3.1\InterfacesAbstraction.csprojAssemblyReference.cache
+C:\Users\Yoan Moskov\source\repos\InterfacesAbstraction\InterfacesAbstraction\obj\Debug\netcoreapp3.1\InterfacesAbstraction.AssemblyInfoInputs.cache
+C:\Users\Yoan Moskov\source\repos\InterfacesAbstraction\InterfacesAbstraction\obj\Debug\netcoreapp3.1\InterfacesAbstraction.AssemblyInfo.cs
+C:\Users\Yoan Moskov\source\repos\InterfacesAbstraction\InterfacesAbstraction\obj\Debug\netcoreapp3.1\InterfacesAbstraction.csproj.CoreCompileInputs.cache
+C:\Users\Yoan Moskov\source\repos\InterfacesAbstraction\InterfacesAbstraction\obj\Debug\netcoreapp3.1\InterfacesAbstraction.dll
+C:\Users\Yoan Moskov\source\repos\InterfacesAbstraction\InterfacesAbstraction\obj\Debug\netcoreapp3.1\InterfacesAbstraction.pdb
+C:\Users\Yoan Moskov\source\repos\InterfacesAbstraction\InterfacesAbstraction\obj\Debug\netcoreapp3.1\InterfacesAbstraction.genruntimeconfig.cache

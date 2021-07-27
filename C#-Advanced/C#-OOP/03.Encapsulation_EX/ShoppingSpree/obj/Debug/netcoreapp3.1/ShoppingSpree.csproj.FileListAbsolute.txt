@@ -1,0 +1,13 @@
+C:\Users\Yoan Moskov\source\repos\Encapsulation_EX\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.exe
+C:\Users\Yoan Moskov\source\repos\Encapsulation_EX\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.deps.json
+C:\Users\Yoan Moskov\source\repos\Encapsulation_EX\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.runtimeconfig.json
+C:\Users\Yoan Moskov\source\repos\Encapsulation_EX\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.runtimeconfig.dev.json
+C:\Users\Yoan Moskov\source\repos\Encapsulation_EX\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.dll
+C:\Users\Yoan Moskov\source\repos\Encapsulation_EX\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.pdb
+C:\Users\Yoan Moskov\source\repos\Encapsulation_EX\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.csprojAssemblyReference.cache
+C:\Users\Yoan Moskov\source\repos\Encapsulation_EX\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.AssemblyInfoInputs.cache
+C:\Users\Yoan Moskov\source\repos\Encapsulation_EX\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.AssemblyInfo.cs
+C:\Users\Yoan Moskov\source\repos\Encapsulation_EX\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Users\Yoan Moskov\source\repos\Encapsulation_EX\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.dll
+C:\Users\Yoan Moskov\source\repos\Encapsulation_EX\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.pdb
+C:\Users\Yoan Moskov\source\repos\Encapsulation_EX\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.genruntimeconfig.cache

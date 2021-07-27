@@ -1,0 +1,12 @@
+C:\Users\Yoan Moskov\source\repos\ReflectionsAndAttributes\CreateAttribute\bin\Debug\netcoreapp3.1\CreateAttribute.exe
+C:\Users\Yoan Moskov\source\repos\ReflectionsAndAttributes\CreateAttribute\bin\Debug\netcoreapp3.1\CreateAttribute.deps.json
+C:\Users\Yoan Moskov\source\repos\ReflectionsAndAttributes\CreateAttribute\bin\Debug\netcoreapp3.1\CreateAttribute.runtimeconfig.json
+C:\Users\Yoan Moskov\source\repos\ReflectionsAndAttributes\CreateAttribute\bin\Debug\netcoreapp3.1\CreateAttribute.runtimeconfig.dev.json
+C:\Users\Yoan Moskov\source\repos\ReflectionsAndAttributes\CreateAttribute\bin\Debug\netcoreapp3.1\CreateAttribute.dll
+C:\Users\Yoan Moskov\source\repos\ReflectionsAndAttributes\CreateAttribute\bin\Debug\netcoreapp3.1\CreateAttribute.pdb
+C:\Users\Yoan Moskov\source\repos\ReflectionsAndAttributes\CreateAttribute\obj\Debug\netcoreapp3.1\CreateAttribute.AssemblyInfoInputs.cache
+C:\Users\Yoan Moskov\source\repos\ReflectionsAndAttributes\CreateAttribute\obj\Debug\netcoreapp3.1\CreateAttribute.AssemblyInfo.cs
+C:\Users\Yoan Moskov\source\repos\ReflectionsAndAttributes\CreateAttribute\obj\Debug\netcoreapp3.1\CreateAttribute.csproj.CoreCompileInputs.cache
+C:\Users\Yoan Moskov\source\repos\ReflectionsAndAttributes\CreateAttribute\obj\Debug\netcoreapp3.1\CreateAttribute.dll
+C:\Users\Yoan Moskov\source\repos\ReflectionsAndAttributes\CreateAttribute\obj\Debug\netcoreapp3.1\CreateAttribute.pdb
+C:\Users\Yoan Moskov\source\repos\ReflectionsAndAttributes\CreateAttribute\obj\Debug\netcoreapp3.1\CreateAttribute.genruntimeconfig.cache

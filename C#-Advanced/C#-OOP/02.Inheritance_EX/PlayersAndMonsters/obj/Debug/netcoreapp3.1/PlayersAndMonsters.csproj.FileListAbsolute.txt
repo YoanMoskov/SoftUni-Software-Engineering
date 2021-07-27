@@ -1,0 +1,13 @@
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.exe
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.deps.json
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.runtimeconfig.json
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.runtimeconfig.dev.json
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.dll
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.pdb
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.csprojAssemblyReference.cache
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.AssemblyInfoInputs.cache
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.AssemblyInfo.cs
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.csproj.CoreCompileInputs.cache
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.dll
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.pdb
+C:\Users\Yoan Moskov\source\repos\Inheritance_EX\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.genruntimeconfig.cache
