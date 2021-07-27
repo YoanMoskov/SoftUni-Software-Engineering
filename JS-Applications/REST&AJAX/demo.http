@@ -1,0 +1,48 @@
+//HTTP - Hyper Text Transfer Protocol
+//for transferring HTML/images/styles...
+
+//GET - retrieve/load a resource
+GET /users/testnakov/repos HTTP/1.1
+Host: api.github.com
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36
+Connection: Keep-Alive
+Cache-Control: no-cache
+<CRLF>
+
+//POST - create/store a resource
+POST /repos/testnakov/test-nakov-repo/issues HTTP/1.1
+Host: api.github.com
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible;MSIE 6.0; Windows NT 5.0)
+Connection: Keep-Alive
+Cache-Control: no-cache
+<CRLF>
+{"title":"Found a bug",
+ "body":"I'm having a problem with this.",
+ "labels":["bug","minor"]}
+<CRLF>
+//PUT - Update a resource
+//DELETE - Delete a resource
+//PATCH - Update resource partially
+//HEAD - Retrieve the resource headers
+//OPTIONS - Return the HTTP methods that the server supports for the specified URL
+
+//HTTP-Response
+HTTP/1.1 200 OK
+Date: Fri, 11 Nov 2016 16:09:18 GMT+2
+Server: Apache/2.2.14 (Linux)
+Accept-Ranges: bytes
+Content-Length: 84
+Content-Type: text/html
+<CRLF>
+<html>
+  <head><title>Test</title></head>
+  <body>Test HTML page.</body>
+</html>
+
+

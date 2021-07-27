@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Destinations</title>
+    <link rel="stylesheet" href="static/css/style.css">
+</head>
+
+<body>
+
+    <!-- Notifications -->
+    <div>
+        <div id="loading" class="notification loadingBox"></div>
+        <div id="success" class="notification infoBox"></div>
+        <div id="error" class="notification errorBox"></div>
+    </div>
+    <div id="root"></div>>
+
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <script src="https://www.gstatic.com/firebasejs/8.1.2/firebase-app.js"></script>
+
+    <!-- TODO: Add SDKs for Firebase products that you want to use
+         https://firebase.google.com/docs/web/setup#available-libraries -->
+
+    <script  src="https://www.gstatic.com/firebasejs/8.1.2/firebase-auth.js"></script>
+    <script  src="https://www.gstatic.com/firebasejs/8.1.2/firebase-firestore.js"></script>
+
+    <script>
+        // Your web app's Firebase configuration
+        var firebaseConfig = {
+            apiKey: "AIzaSyBH65aCXDiCtge5Ibf7MQ1BAyEi3NphbxQ",
+            authDomain: "destinations-c0a39.firebaseapp.com",
+            projectId: "destinations-c0a39",
+            storageBucket: "destinations-c0a39.appspot.com",
+            messagingSenderId: "74526830264",
+            appId: "1:74526830264:web:48e0b6db2a6a7301294e4d"
+        };
+        // Initialize Firebase
+        firebase.initializeApp(firebaseConfig);
+    </script>
+
+    <script src="node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="node_modules/handlebars/dist/handlebars.min.js"></script>
+    <script src="node_modules/sammy/lib/sammy.js"></script>
+    <script src="node_modules/sammy/lib/plugins/sammy.handlebars.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>

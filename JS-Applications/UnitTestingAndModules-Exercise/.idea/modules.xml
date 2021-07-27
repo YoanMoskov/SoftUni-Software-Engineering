@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ASYNC/.idea/ASYNC.iml" filepath="$PROJECT_DIR$/../ASYNC/.idea/ASYNC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../EXAM_1/.idea/EXAM_1.iml" filepath="$PROJECT_DIR$/../EXAM_1/.idea/EXAM_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../REST&amp;AJAX/.idea/REST&amp;AJAX.iml" filepath="$PROJECT_DIR$/../REST&amp;AJAX/.idea/REST&amp;AJAX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RemoteDatabases/.idea/RemoteDatabases.iml" filepath="$PROJECT_DIR$/../RemoteDatabases/.idea/RemoteDatabases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Routing/.idea/Routing.iml" filepath="$PROJECT_DIR$/../Routing/.idea/Routing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Templating/.idea/Templating.iml" filepath="$PROJECT_DIR$/../Templating/.idea/Templating.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../UnitTestingAndModules/.idea/UnitTestingAndModules.iml" filepath="$PROJECT_DIR$/../UnitTestingAndModules/.idea/UnitTestingAndModules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/UnitTestingAndModules-Exercise.iml" filepath="$PROJECT_DIR$/.idea/UnitTestingAndModules-Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demos/.idea/demos.iml" filepath="$PROJECT_DIR$/../demos/.idea/demos.iml" />
+    </modules>
+  </component>
+</project>

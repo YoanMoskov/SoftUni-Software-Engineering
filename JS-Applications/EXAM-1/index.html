@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./public/styles.css">
+    <link rel="icon" type="image/png" href="./public/favicon.png">
+    <title>Shoe Shelf</title>
+</head>
+<body>
+
+
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-auth.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-firestore.js"></script>
+
+<script>
+    // Your web app's Firebase configuration
+    var firebaseConfig = {
+        apiKey: "AIzaSyB9Sn-p8XjXdaLFKVm0HP9YyuABStF_4CE",
+        authDomain: "shoeshelf-98d75.firebaseapp.com",
+        databaseURL: "https://shoeshelf-98d75.firebaseio.com",
+        projectId: "shoeshelf-98d75",
+        storageBucket: "shoeshelf-98d75.appspot.com",
+        messagingSenderId: "611805381197",
+        appId: "1:611805381197:web:bbd2db388c5dfc32819204"
+    };
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+</script>
+
+<main id="root"></main>
+<script src="node_modules/jquery/dist/jquery.min.js"></script>
+<script src="node_modules/handlebars/dist/handlebars.min.js"></script>
+<script src="node_modules/sammy/lib/sammy.js"></script>
+<script src="node_modules/sammy/lib/plugins/sammy.handlebars.js"></script>
+<script src="index.js"></script>
+</body>
+</html>

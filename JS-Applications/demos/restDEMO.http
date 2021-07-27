@@ -1,0 +1,7 @@
+//REST - Representational State Transfer
+//Architecture for client-server communication with HTTP
+//POST - creates new resource
+//GET - gets a resource
+//DELETE - delets a resource
+//PUT - change the whole resource
+//PATCH - change only one of the props in the resource

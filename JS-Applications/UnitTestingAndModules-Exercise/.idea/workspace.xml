@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b39d9407-a595-43ed-94b9-6b9fcbbb413e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="0" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/6.PaymentPackage/PaymentPackage-test.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../RemoteDatabases/STUDENTS/app.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../RemoteDatabases/STUDENTS/index.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Routing/EXERCISE/scripts/app.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../RemoteDatabases/BOOKS/app.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/5.StringBuilder/string-builder-test.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../RemoteDatabases/BOOKS/index.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../demos/Templating/index.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Routing/EXERCISE/index.html" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1jTUmBU9EXQxEblQ5jSWvZ4qGkv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.19.2" />
+    <property name="js.last.introduce.type" value="VAR" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demos" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JS-Applications\demos\Templating" />
+      <recent name="D:\JS-Applications\demos" />
+      <recent name="D:\JS-Applications\UnitTestingAndModules-Exercise\4.MathEnforcer" />
+      <recent name="D:\JS-Applications\UnitTestingAndModules-Exercise\3.CharLookup" />
+      <recent name="D:\JS-Applications\UnitTestingAndModules-Exercise\2.EvenOrOdd" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.template.js">
+    <configuration name="catSeeder.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../Templating/02. HTTP Status Cats/catSeeder.js" working-dir="$PROJECT_DIR$/../Templating/02. HTTP Status Cats">
+      <method v="2" />
+    </configuration>
+    <configuration name="template.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../Templating/02. HTTP Status Cats/template.js" working-dir="$PROJECT_DIR$/../Templating/02. HTTP Status Cats">
+      <method v="2" />
+    </configuration>
+    <configuration name="PaymentPackage" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/6.PaymentPackage/PaymentPackage-test.js</test-file>
+      <test-names>
+        <name value="PaymentPackage" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="PaymentPackage.toString" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/6.PaymentPackage/PaymentPackage-test.js</test-file>
+      <test-names>
+        <name value="PaymentPackage" />
+        <name value="toString" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="PaymentPackage.toString.shouldReturnProperOutput" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/6.PaymentPackage/PaymentPackage-test.js</test-file>
+      <test-names>
+        <name value="PaymentPackage" />
+        <name value="toString" />
+        <name value="shouldReturnProperOutput" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.template.js" />
+        <item itemvalue="Node.js.catSeeder.js" />
+        <item itemvalue="Mocha.PaymentPackage" />
+        <item itemvalue="Mocha.PaymentPackage.toString.shouldReturnProperOutput" />
+        <item itemvalue="Mocha.PaymentPackage.toString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b39d9407-a595-43ed-94b9-6b9fcbbb413e" name="Default Changelist" comment="" />
+      <created>1603827731702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603827731702</updated>
+      <workItem from="1603827732750" duration="3613000" />
+      <workItem from="1603831395699" duration="3441000" />
+      <workItem from="1603920900649" duration="66000" />
+      <workItem from="1603979406789" duration="13685000" />
+      <workItem from="1604155860166" duration="4367000" />
+      <workItem from="1604400601512" duration="17096000" />
+      <workItem from="1604428967718" duration="139000" />
+      <workItem from="1604513029049" duration="90000" />
+      <workItem from="1604518250624" duration="5654000" />
+      <workItem from="1604558840959" duration="13181000" />
+      <workItem from="1604594288122" duration="6992000" />
+      <workItem from="1604658340408" duration="641000" />
+      <workItem from="1605041507505" duration="7193000" />
+      <workItem from="1605190212181" duration="16045000" />
+      <workItem from="1605271614184" duration="336000" />
+      <workItem from="1605274984203" duration="16226000" />
+      <workItem from="1606150663921" duration="5118000" />
+      <workItem from="1606232107486" duration="10824000" />
+      <workItem from="1606312498903" duration="4791000" />
+      <workItem from="1606320547969" duration="1659000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="165" key="#Plugins" timestamp="1606321465751">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="165" key="#Plugins/0.0.1920.1050/-1080.-544.1080.1920/1920.-553.1080.1920@0.0.1920.1050" timestamp="1606321465751" />
+    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605289056505">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/-1080.-544.1080.1920/1920.-553.1080.1920@0.0.1920.1050" timestamp="1605289056505" />
+    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605205626589">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050/-1080.-544.1080.1920/1920.-553.1080.1920@0.0.1920.1050" timestamp="1605205626589" />
+    <state width="504" height="618" key="DebuggerActiveHint" timestamp="1603996016472">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="504" height="618" key="DebuggerActiveHint/0.0.1920.1050/-1080.-544.1080.1920/1920.-553.1080.1920@0.0.1920.1050" timestamp="1603996016472" />
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1606322225263">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050/-1080.-544.1080.1920/1920.-553.1080.1920@0.0.1920.1050" timestamp="1606322225263" />
+    <state width="1899" height="278" key="GridCell.Tab.0.bottom" timestamp="1605295844474">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1080.-544.1080.1920/1920.-553.1080.1920@0.0.1920.1050" timestamp="1605295844474" />
+    <state width="1899" height="278" key="GridCell.Tab.0.center" timestamp="1605295844473">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="278" key="GridCell.Tab.0.center/0.0.1920.1050/-1080.-544.1080.1920/1920.-553.1080.1920@0.0.1920.1050" timestamp="1605295844473" />
+    <state width="1899" height="278" key="GridCell.Tab.0.left" timestamp="1605295844473">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="278" key="GridCell.Tab.0.left/0.0.1920.1050/-1080.-544.1080.1920/1920.-553.1080.1920@0.0.1920.1050" timestamp="1605295844473" />
+    <state width="1899" height="278" key="GridCell.Tab.0.right" timestamp="1605295844474">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="278" key="GridCell.Tab.0.right/0.0.1920.1050/-1080.-544.1080.1920/1920.-553.1080.1920@0.0.1920.1050" timestamp="1605295844474" />
+    <state width="1899" height="344" key="GridCell.Tab.1.bottom" timestamp="1605295844468">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1050/-1080.-544.1080.1920/1920.-553.1080.1920@0.0.1920.1050" timestamp="1605295844468" />
+    <state width="1899" height="344" key="GridCell.Tab.1.center" timestamp="1605295844468">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="344" key="GridCell.Tab.1.center/0.0.1920.1050/-1080.-544.1080.1920/1920.-553.1080.1920@0.0.1920.1050" timestamp="1605295844468" />
+    <state width="1899" height="344" key="GridCell.Tab.1.left" timestamp="1605295844468">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="344" key="GridCell.Tab.1.left/0.0.1920.1050/-1080.-544.1080.1920/1920.-553.1080.1920@0.0.1920.1050" timestamp="1605295844468" />
+    <state width="1899" height="344" key="GridCell.Tab.1.right" timestamp="1605295844468">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="344" key="GridCell.Tab.1.right/0.0.1920.1050/-1080.-544.1080.1920/1920.-553.1080.1920@0.0.1920.1050" timestamp="1605295844468" />
+    <state width="1899" height="344" key="GridCell.Tab.2.bottom" timestamp="1605295844468">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="344" key="GridCell.Tab.2.bottom/0.0.1920.1050/-1080.-544.1080.1920/1920.-553.1080.1920@0.0.1920.1050" timestamp="1605295844468" />
+    <state width="1899" height="344" key="GridCell.Tab.2.center" timestamp="1605295844468">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="344" key="GridCell.Tab.2.center/0.0.1920.1050/-1080.-544.1080.1920/1920.-553.1080.1920@0.0.1920.1050" timestamp="1605295844468" />
+    <state width="1899" height="344" key="GridCell.Tab.2.left" timestamp="1605295844468">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="344" key="GridCell.Tab.2.left/0.0.1920.1050/-1080.-544.1080.1920/1920.-553.1080.1920@0.0.1920.1050" timestamp="1605295844468" />
+    <state width="1899" height="344" key="GridCell.Tab.2.right" timestamp="1605295844468">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="344" key="GridCell.Tab.2.right/0.0.1920.1050/-1080.-544.1080.1920/1920.-553.1080.1920@0.0.1920.1050" timestamp="1605295844468" />
+    <state width="1899" height="344" key="GridCell.Tab.3.bottom" timestamp="1605295844468">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="344" key="GridCell.Tab.3.bottom/0.0.1920.1050/-1080.-544.1080.1920/1920.-553.1080.1920@0.0.1920.1050" timestamp="1605295844468" />
+    <state width="1899" height="344" key="GridCell.Tab.3.center" timestamp="1605295844468">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="344" key="GridCell.Tab.3.center/0.0.1920.1050/-1080.-544.1080.1920/1920.-553.1080.1920@0.0.1920.1050" timestamp="1605295844468" />
+    <state width="1899" height="344" key="GridCell.Tab.3.left" timestamp="1605295844468">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="344" key="GridCell.Tab.3.left/0.0.1920.1050/-1080.-544.1080.1920/1920.-553.1080.1920@0.0.1920.1050" timestamp="1605295844468" />
+    <state width="1899" height="344" key="GridCell.Tab.3.right" timestamp="1605295844468">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="344" key="GridCell.Tab.3.right/0.0.1920.1050/-1080.-544.1080.1920/1920.-553.1080.1920@0.0.1920.1050" timestamp="1605295844468" />
+    <state x="540" y="259" key="IDE.errors.dialog" timestamp="1606150855348">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="540" y="259" key="IDE.errors.dialog/0.0.1920.1050/-1080.-544.1080.1920/1920.-553.1080.1920@0.0.1920.1050" timestamp="1606150855348" />
+    <state x="461" y="169" key="SettingsEditor" timestamp="1606321400536">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050/-1080.-544.1080.1920/1920.-553.1080.1920@0.0.1920.1050" timestamp="1606321400536" />
+    <state x="668" y="242" width="583" height="566" key="find.popup" timestamp="1606150742031">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="668" y="242" width="583" height="566" key="find.popup/0.0.1920.1050/-1080.-544.1080.1920/1920.-553.1080.1920@0.0.1920.1050" timestamp="1606150742031" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1605288364911">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050/-1080.-544.1080.1920/1920.-553.1080.1920@0.0.1920.1050" timestamp="1605288364911" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1606321419703">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/-1080.-544.1080.1920/1920.-553.1080.1920@0.0.1920.1050" timestamp="1606321419703" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/5.SharedObject/shared-object-test.js</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/5.StringBuilder/string-builder.js</url>
+          <line>30</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$PaymentPackage_getters_getValueShouldReturnValue.dat" NAME="PaymentPackage.getters.getValueShouldReturnValue Coverage Results" MODIFIED="1603998133645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$StringBuilder_constructor_shouldReturnArrayWithStringIfOperationSuccessful.dat" NAME="StringBuilder.constructor.shouldReturnArrayWithStringIfOperationSuccessful Coverage Results" MODIFIED="1603984468702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$mathEnforcer_subtractTen_shouldReturnFloatingPointIfPassedParamIsFloatingPoint.dat" NAME="mathEnforcer.subtractTen.shouldReturnFloatingPointIfPassedParamIsFloatingPoint Coverage Results" MODIFIED="1603834441979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$changeName_shouldReturnLastNameIfNameLengthEqualToNull.dat" NAME="changeName.shouldReturnLastNameIfNameLengthEqualToNull Coverage Results" MODIFIED="1603980329798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$StringBuilder_append.dat" NAME="StringBuilder.append Coverage Results" MODIFIED="1603984767791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$mathEnforcer_addFiveShouldReturnUndefinedIfPassedParamIsNotNumber.dat" NAME="mathEnforcer.addFiveShouldReturnUndefinedIfPassedParamIsNotNumber Coverage Results" MODIFIED="1603833128603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$mathEnforcer_sumShouldReturnTheSumOfTheTwoParamsIfBothAreNumbers.dat" NAME="mathEnforcer.sumShouldReturnTheSumOfTheTwoParamsIfBothAreNumbers Coverage Results" MODIFIED="1603833436051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$StringBuilder_shouldHaveAllProperties.dat" NAME="StringBuilder.shouldHaveAllProperties Coverage Results" MODIFIED="1603996939297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$StringBuilder_remove_should.dat" NAME="StringBuilder.remove.should Coverage Results" MODIFIED="1603995562384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$StringBuilder_shouldWorkWithFunctionAttachedToInstance.dat" NAME="StringBuilder.shouldWorkWithFunctionAttachedToInstance Coverage Results" MODIFIED="1603996341461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$sum.dat" NAME="sum Coverage Results" MODIFIED="1603834136864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$mathEnforcer_sum_shouldReturnFloatingPointIfBothParamsAreFloatingPoint.dat" NAME="mathEnforcer.sum.shouldReturnFloatingPointIfBothParamsAreFloatingPoint Coverage Results" MODIFIED="1603834573448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$StringBuilder_constructor.dat" NAME="StringBuilder.constructor Coverage Results" MODIFIED="1603984434165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$PaymentPackage_toString_shouldReturnProperOutput.dat" NAME="PaymentPackage.toString.shouldReturnProperOutput Coverage Results" MODIFIED="1603999557338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$subtractTen_shouldReturnNumberMinusTenIfNegativeNum.dat" NAME="subtractTen.shouldReturnNumberMinusTenIfNegativeNum Coverage Results" MODIFIED="1603833890235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$StringBuilder_constructor_shouldBeAbleToBeInstancedWithoutParams.dat" NAME="StringBuilder.constructor.shouldBeAbleToBeInstancedWithoutParams Coverage Results" MODIFIED="1603986476408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$addFive_should.dat" NAME="addFive.should Coverage Results" MODIFIED="1603833810706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$lookupChar_shouldReturnIncorrectIndexMessageIfIndexIsNegative.dat" NAME="lookupChar.shouldReturnIncorrectIndexMessageIfIndexIsNegative Coverage Results" MODIFIED="1603832504078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$lookupChar.dat" NAME="lookupChar Coverage Results" MODIFIED="1603832724998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$lookupChar_shouldReturnCharIfAllParamertersAreValid.dat" NAME="lookupChar.shouldReturnCharIfAllParamertersAreValid Coverage Results" MODIFIED="1603832548953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$mathEnforcer_sumShouldReturnUndefinedIfFirstParamIsNotNum.dat" NAME="mathEnforcer.sumShouldReturnUndefinedIfFirstParamIsNotNum Coverage Results" MODIFIED="1603833362961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$mathEnforcer_subtractTenShouldReturnUndefinedIfPassedParamNotNumber.dat" NAME="mathEnforcer.subtractTenShouldReturnUndefinedIfPassedParamNotNumber Coverage Results" MODIFIED="1603833210201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$PaymentPackage_constructor_constructorShouldWorkProperly.dat" NAME="PaymentPackage.constructor.constructorShouldWorkProperly Coverage Results" MODIFIED="1603998466953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$StringBuilder_append_shouldReturnApendedStringIfSuccessful.dat" NAME="StringBuilder.append.shouldReturnApendedStringIfSuccessful Coverage Results" MODIFIED="1603985532318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$PaymentPackage_getters_getNameShouldReturnName.dat" NAME="PaymentPackage.getters.getNameShouldReturnName Coverage Results" MODIFIED="1603998128707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$lookupChar_shouldReturnUndefinedIfSecondParamIsFloatingPoint.dat" NAME="lookupChar.shouldReturnUndefinedIfSecondParamIsFloatingPoint Coverage Results" MODIFIED="1603832839046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$StringBuilder_constructor_shouldReturnJoinedArrayWithStringIfOperationSuccessful.dat" NAME="StringBuilder.constructor.shouldReturnJoinedArrayWithStringIfOperationSuccessful Coverage Results" MODIFIED="1603985481657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$StringBuilder_insertAt_shouldSpreadStringAfterSuccessfulInsert.dat" NAME="StringBuilder.insertAt.shouldSpreadStringAfterSuccessfulInsert Coverage Results" MODIFIED="1603995431649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$mathEnforcer.dat" NAME="mathEnforcer Coverage Results" MODIFIED="1603920916808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$lookupChar_shouldReturn.dat" NAME="lookupChar.shouldReturn Coverage Results" MODIFIED="1603832710588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$PaymentPackage_toString.dat" NAME="PaymentPackage.toString Coverage Results" MODIFIED="1603999289258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$StringBuilder_constructor_shouldReturnEmptyStringIfPassedStringUndefined.dat" NAME="StringBuilder.constructor.shouldReturnEmptyStringIfPassedStringUndefined Coverage Results" MODIFIED="1603985455592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$PaymentPackage_setters.dat" NAME="PaymentPackage.setters Coverage Results" MODIFIED="1603998791120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$StringBuilder.dat" NAME="StringBuilder Coverage Results" MODIFIED="1603996347836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$StringBuilder_append_shouldThrowExceptionIfPassedParamNotString.dat" NAME="StringBuilder.append.shouldThrowExceptionIfPassedParamNotString Coverage Results" MODIFIED="1603985330153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$mathEnforcer_sum_shouldReturnFloatingPointIfFirstParamIsFloatingPoint.dat" NAME="mathEnforcer.sum.shouldReturnFloatingPointIfFirstParamIsFloatingPoint Coverage Results" MODIFIED="1603834496695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$mathEnforcer_sum_shouldReturnFloatingPointIfSecondParamIsFloatingPoint.dat" NAME="mathEnforcer.sum.shouldReturnFloatingPointIfSecondParamIsFloatingPoint Coverage Results" MODIFIED="1603834528485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$PaymentPackage_setters_setValueShouldThrowErrorIfPassedParamNotNumber.dat" NAME="PaymentPackage.setters.setValueShouldThrowErrorIfPassedParamNotNumber Coverage Results" MODIFIED="1603998767958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$mathEnforcer_subtractTenShouldReturnTheNumberMinusTen.dat" NAME="mathEnforcer.subtractTenShouldReturnTheNumberMinusTen Coverage Results" MODIFIED="1603833253595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$PaymentPackage_setters_setNameShouldChangeTheNameIfSuccessful.dat" NAME="PaymentPackage.setters.setNameShouldChangeTheNameIfSuccessful Coverage Results" MODIFIED="1603998516028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$mathEnforcer_sumShouldReturnUndefinedIfSecondParamIsNotNum.dat" NAME="mathEnforcer.sumShouldReturnUndefinedIfSecondParamIsNotNum Coverage Results" MODIFIED="1603833388667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$StringBuilder_insertAt_shouldReturnJoinedArrayWithInsertedStringIfSuccessful.dat" NAME="StringBuilder.insertAt.shouldReturnJoinedArrayWithInsertedStringIfSuccessful Coverage Results" MODIFIED="1603985915141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$subtractTen.dat" NAME="subtractTen Coverage Results" MODIFIED="1603834105985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$PaymentPackage.dat" NAME="PaymentPackage Coverage Results" MODIFIED="1603999565397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$mathEnforcer_addFive_shouldReturnFloatingPointIfPassedParamIsFloatingPoint.dat" NAME="mathEnforcer.addFive.shouldReturnFloatingPointIfPassedParamIsFloatingPoint Coverage Results" MODIFIED="1603834381187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$StringBuilder_insertAt.dat" NAME="StringBuilder.insertAt Coverage Results" MODIFIED="1603985906779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$isOddOrEven_shouldBeEven.dat" NAME="isOddOrEven.shouldBeEven Coverage Results" MODIFIED="1603831645773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$lookupChar_shouldReturnUndefinedIfFirstParamDifferentThanString.dat" NAME="lookupChar.shouldReturnUndefinedIfFirstParamDifferentThanString Coverage Results" MODIFIED="1603832294215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$PaymentPackage_setters_setNameShouldThrowErrorIfPassedParamNotString.dat" NAME="PaymentPackage.setters.setNameShouldThrowErrorIfPassedParamNotString Coverage Results" MODIFIED="1603998662878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$PaymentPackage_getters.dat" NAME="PaymentPackage.getters Coverage Results" MODIFIED="1603998095685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$StringBuilder_remove_shouldReturnCorrectValueWithSwappedParams.dat" NAME="StringBuilder.remove.shouldReturnCorrectValueWithSwappedParams Coverage Results" MODIFIED="1603996040059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$lookupChar_shouldReturnIncorrectIndexMessageIfIndexIsBiggerThanStringLength.dat" NAME="lookupChar.shouldReturnIncorrectIndexMessageIfIndexIsBiggerThanStringLength Coverage Results" MODIFIED="1603832476323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$addFive.dat" NAME="addFive Coverage Results" MODIFIED="1603834097564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$baseState.dat" NAME="baseState Coverage Results" MODIFIED="1603980120190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$StringBuilder_remove.dat" NAME="StringBuilder.remove Coverage Results" MODIFIED="1603986173093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$isOddOrEven_shouldReturnUndefined.dat" NAME="isOddOrEven.shouldReturnUndefined Coverage Results" MODIFIED="1603831728886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$StringBuilder_prepend.dat" NAME="StringBuilder.prepend Coverage Results" MODIFIED="1603985754400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$isOddOrEven_shouldBeOdd.dat" NAME="isOddOrEven.shouldBeOdd Coverage Results" MODIFIED="1603831622399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$2_EvenOrOdd_test_js.dat" NAME="2.EvenOrOdd-test.js Coverage Results" MODIFIED="1603831266945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$isOddOrEven.dat" NAME="isOddOrEven Coverage Results" MODIFIED="1603831734401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$StringBuilder_toString.dat" NAME="StringBuilder.toString Coverage Results" MODIFIED="1603988947066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/UnitTestingAndModules_Exercise$sum_shouldReturnNegativeSumIfBothAreNegative.dat" NAME="sum.shouldReturnNegativeSumIfBothAreNegative Coverage Results" MODIFIED="1603834093687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

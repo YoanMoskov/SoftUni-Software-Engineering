@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Hello World</h1>
+
+    <div id="root"></div>
+
+    <a href="#" onclick="navigate(event, '/home');">home</a>
+    <a href="#" onclick="navigate(event, '/about')">about</a>
+    <a href="#" onclick="navigate(event, '/contact')">contact</a>
+
+    <button id="change">Change</button>
+
+    <script>
+        const rootEl = document.getElementById('root');
+
+        const router = {
+            '/home': `<h2>Home Page</h2>`,
+            '/about': `<h2>About</h2>`,
+            '/contact': `<h2>Contacts</h2>`,
+        }
+
+        function navigate(event, url) {
+            event.preventDefault();
+            history.pushState({}, '', url);
+            rootEl.innerHTML = router[location.pathname] || `<h2>Not Found</h2>`;
+        }
+    </script>
+
+</body>
+</html>

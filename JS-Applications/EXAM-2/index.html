@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Application 2020</title>
+    <link rel="icon" type="image/png" href="./static/favicon.ico">
+    <link href="static/css/site.css" type="text/css" rel="stylesheet">
+    <link href="node_modules/toastr/build/toastr.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+
+<body>  
+    <div class="container" id="root"></div>
+
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-app.js"></script>
+
+    <!-- TODO: Add SDKs for Firebase products that you want to use
+         https://firebase.google.com/docs/web/setup#available-libraries -->
+    <script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-firestore.js"></script>
+
+    <script>
+        // Your web app's Firebase configuration
+        var firebaseConfig = {
+            apiKey: "AIzaSyCedVBq7afIQhy8cTIuUi0PwNWMTuQNHow",
+            authDomain: "movies-62b25.firebaseapp.com",
+            databaseURL: "https://movies-62b25.firebaseio.com",
+            projectId: "movies-62b25",
+            storageBucket: "movies-62b25.appspot.com",
+            messagingSenderId: "1019963135544",
+            appId: "1:1019963135544:web:44fde0f56484372a18f8cd"
+        };
+        // Initialize Firebase
+        firebase.initializeApp(firebaseConfig);
+    </script>
+
+
+    <script src="node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="node_modules/handlebars/dist/handlebars.js"></script>
+    <script src="node_modules/sammy/lib/sammy.js"></script>
+    <script src="node_modules/sammy/lib/plugins/sammy.handlebars.js"></script>
+    <script src="node_modules/toastr/build/toastr.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
